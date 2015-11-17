@@ -43,3 +43,7 @@ group :development do
   gem 'spring'
 end
 
+gem 'apartment'                     # Multitenant support
+gem 'hirb'                          # Better DB output in IRB
+gem 'simple_form'                   # Easier form gereration
+gem 'bootstrap-sass'                # Sass-powered version of Bootstrap, ready to drop right into your Sass powered applications
